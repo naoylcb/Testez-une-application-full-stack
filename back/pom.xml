@@ -177,7 +177,6 @@
 						<exclude>**/models/**</exclude>
 						<exclude>**/mapper/**</exclude>
 						<exclude>**/payload/**</exclude>
-						<exclude>**/repository/**</exclude>
 						<exclude>**/exception/**</exclude>
 						<exclude>**/security/**</exclude>
 					</excludes>
