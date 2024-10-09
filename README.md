@@ -29,7 +29,7 @@ Install back-end dependencies:
 
 Launch front-end:
 
-> npm run start;
+> npm run start
 
 Launch back-end:
 
